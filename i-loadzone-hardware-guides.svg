@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" role="img" aria-label="i-loadzone office hardware diagnostics and software verification guide">
+  <defs>
+    <linearGradient id="ghBg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#f0fdf4" />
+    </linearGradient>
+    <filter id="ghSh3" x="-8%" y="-8%" width="116%" height="116%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.08" />
+    </filter>
+  </defs>
+
+  <rect width="880" height="440" rx="14" fill="url(#ghBg3)" />
+  <circle cx="90" cy="85" r="85" fill="#bbf7d0" opacity="0.5" />
+  <circle cx="790" cy="355" r="95" fill="#bae6fd" opacity="0.5" />
+
+  <g filter="url(#ghSh3)">
+    <rect x="78" y="42" width="724" height="356" rx="12" fill="#ffffff" stroke="#d1fae5" stroke-width="1.5" />
+  </g>
+
+  <rect x="108" y="64" width="128" height="30" rx="6" fill="#059669" />
+  <text x="172" y="84" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">i-loadzone</text>
+  <text x="252" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#0f172a">Hardware Compatibility, Printer Care &amp; Recovery Plan</text>
+  <line x1="108" y1="110" x2="772" y2="110" stroke="#e2e8f0" stroke-width="1.5" />
+
+  <!-- 3 Vertical Cards -->
+  <rect x="108" y="134" width="206" height="236" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2" />
+  <circle cx="144" cy="170" r="18" fill="#0284c7" />
+  <path d="M137 170 L142 175 L152 164" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="128" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Printer &amp; Port Care</text>
+  <text x="128" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">Assign static local IPs,</text>
+  <text x="128" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">reset stalled spoolers,</text>
+  <text x="128" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">and run regular nozzle</text>
+  <text x="128" y="294" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">checks safely</text>
+  <rect x="128" y="328" width="166" height="24" rx="12" fill="#e0f2fe" />
+  <text x="211" y="344" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#0369a1" text-anchor="middle">Office Hardware</text>
+
+  <rect x="337" y="134" width="206" height="236" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2" />
+  <circle cx="373" cy="170" r="18" fill="#0f766e" />
+  <rect x="364" y="161" width="18" height="18" rx="3" fill="none" stroke="#ffffff" stroke-width="2.4" />
+  <text x="357" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Runtime &amp; Hash Audit</text>
+  <text x="357" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">Confirm SHA-256 hashes</text>
+  <text x="357" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">and match OS version</text>
+  <text x="357" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">requirements before</text>
+  <text x="357" y="294" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">running setup files</text>
+  <rect x="357" y="328" width="166" height="24" rx="12" fill="#ccfbf1" />
+  <text x="440" y="344" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#0f766e" text-anchor="middle">File Integrity</text>
+
+  <rect x="566" y="134" width="206" height="236" rx="10" fill="#ecfdf5" stroke="#a7f3d0" stroke-width="1.2" />
+  <circle cx="602" cy="170" r="18" fill="#059669" />
+  <path d="M595 170 L600 175 L610 164" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="586" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#064e3b">i-loadzone Checklists</text>
+  <text x="586" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#065f46">Document working driver</text>
+  <text x="586" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#065f46">builds, restore points,</text>
+  <text x="586" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#065f46">and off-site backups</text>
+  <text x="586" y="294" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#065f46">for rapid recovery</text>
+  <rect x="586" y="328" width="166" height="24" rx="12" fill="#059669" />
+  <text x="669" y="344" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">Verified Notes</text>
+</svg>
